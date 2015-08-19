@@ -1,0 +1,45 @@
+[19-Apr-2015 09:24:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shivamch/public_html/crm/header.php:23) in /home/shivamch/public_html/crm/displayplans.php on line 6
+[19-Apr-2015 09:25:50 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/shivamch/public_html/crm/dbconnection.php on line 2
+[19-Apr-2015 09:25:50 UTC] PHP Warning:  mysql_select_db(): Too many connections in /home/shivamch/public_html/crm/dbconnection.php on line 3
+[19-Apr-2015 09:25:50 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/shivamch/public_html/crm/dbconnection.php on line 3
+[19-Apr-2015 09:26:20 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/shivamch/public_html/crm/dbconnection.php on line 2
+[19-Apr-2015 09:26:20 UTC] PHP Warning:  mysql_select_db(): Too many connections in /home/shivamch/public_html/crm/dbconnection.php on line 3
+[19-Apr-2015 09:26:20 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/shivamch/public_html/crm/dbconnection.php on line 3
+[19-Apr-2015 09:28:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shivamch/public_html/crm/header.php:27) in /home/shivamch/public_html/crm/editagents.php on line 74
+[19-Apr-2015 12:02:43 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/shivamch/public_html/crm/dbconnection.php on line 2
+[19-Apr-2015 12:02:43 UTC] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/shivamch/public_html/crm/dbconnection.php on line 3
+[19-Apr-2015 12:02:43 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/shivamch/public_html/crm/dbconnection.php on line 3
+[19-Apr-2015 12:38:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shivamch/public_html/crm/header.php:27) in /home/shivamch/public_html/crm/sales.php on line 6
+[08-May-2015 16:30:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shivamch/public_html/crm/header.php:27) in /home/shivamch/public_html/crm/displayleads.php on line 5
+[08-May-2015 16:30:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shivamch/public_html/crm/header.php:27) in /home/shivamch/public_html/crm/displayleads.php on line 5
+[09-May-2015 18:09:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shivamch/public_html/crm/header.php:27) in /home/shivamch/public_html/crm/displayusers.php on line 6
+[09-May-2015 18:18:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shivamch/public_html/crm/header.php:27) in /home/shivamch/public_html/crm/displayusers.php on line 6
+[25-May-2015 05:13:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/skeinin/public_html/crm_debel/header.php:28) in /home/skeinin/public_html/crm_debel/sales.php on line 106
+[25-May-2015 05:13:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/skeinin/public_html/crm_debel/header.php:28) in /home/skeinin/public_html/crm_debel/search.php on line 174
+[25-May-2015 08:18:17 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/skeinin/public_html/crm_debel/dbconnection.php on line 2
+[25-May-2015 08:18:17 UTC] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/skeinin/public_html/crm_debel/dbconnection.php on line 3
+[25-May-2015 08:18:17 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/skeinin/public_html/crm_debel/dbconnection.php on line 3
+[25-May-2015 08:18:17 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/skeinin/public_html/crm_debel/displaygateways.php on line 52
+[25-May-2015 08:18:17 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/skeinin/public_html/crm_debel/displaygateways.php on line 52
+[25-May-2015 08:18:17 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/skeinin/public_html/crm_debel/displaygateways.php on line 53
+[25-May-2015 08:18:17 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/skeinin/public_html/crm_debel/displaygateways.php on line 62
+[25-May-2015 08:18:17 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/skeinin/public_html/crm_debel/displaygateways.php on line 62
+[25-May-2015 08:18:17 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/skeinin/public_html/crm_debel/displaygateways.php on line 64
+[25-May-2015 08:18:17 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/skeinin/public_html/crm_debel/displaygateways.php on line 64
+[25-May-2015 09:12:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/skeinin/public_html/crm_debel/header.php:33) in /home/skeinin/public_html/crm_debel/displayleads.php on line 102
+[25-May-2015 09:13:04 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/skeinin/public_html/crm_debel/search.php on line 64
+[25-May-2015 09:13:04 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/skeinin/public_html/crm_debel/search.php on line 125
+[25-May-2015 09:13:58 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/skeinin/public_html/crm_debel/search.php on line 64
+[25-May-2015 09:13:58 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/skeinin/public_html/crm_debel/search.php on line 125
+[25-May-2015 09:14:32 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/skeinin/public_html/crm_debel/search.php on line 64
+[25-May-2015 09:14:32 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/skeinin/public_html/crm_debel/search.php on line 125
+[26-May-2015 13:57:47 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/skeinin/public_html/crm_debel/gatewayreports.php on line 108
+[26-May-2015 13:59:34 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/skeinin/public_html/crm_debel/search.php on line 64
+[26-May-2015 13:59:34 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/skeinin/public_html/crm_debel/search.php on line 125
+[26-May-2015 14:09:23 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/skeinin/public_html/crm_debel/agentreports.php on line 107
+[26-May-2015 14:18:56 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/skeinin/public_html/crm_debel/dbconnection.php on line 2
+[26-May-2015 14:18:56 UTC] PHP Warning:  mysql_select_db(): Too many connections in /home/skeinin/public_html/crm_debel/dbconnection.php on line 3
+[26-May-2015 14:18:56 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/skeinin/public_html/crm_debel/dbconnection.php on line 3
+[26-May-2015 14:18:56 UTC] PHP Warning:  mysql_query(): Too many connections in /home/skeinin/public_html/crm_debel/chargebackreports.php on line 89
+[26-May-2015 14:18:56 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/skeinin/public_html/crm_debel/chargebackreports.php on line 89
+[26-May-2015 14:18:56 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/skeinin/public_html/crm_debel/chargebackreports.php on line 95
